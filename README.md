@@ -11,4 +11,4 @@ Guide:
     #3. run the program
     #4. Happy hacking
 
-                                    -kikoman123
+                                    kikoman123
