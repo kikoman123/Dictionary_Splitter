@@ -9,7 +9,7 @@ default values:
 Guide:
 
 
-    1. Please, put the lines of text you want to split
+    1. Please, put the lines of text you want to split into input.txt
     2. Save the file
     3. run the program
     4. Happy hacking
