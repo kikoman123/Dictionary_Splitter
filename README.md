@@ -3,6 +3,7 @@
 // feel free to modify the lenght of lines to split the input.txt file
 default values:
 
+     file to split = input.txt
      0-10 lines = output1.txt 
      10-20 lines = output2.txt
 
