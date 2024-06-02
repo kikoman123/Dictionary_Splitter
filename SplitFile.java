@@ -19,9 +19,9 @@ public class SplitFile {
                 }
             }
 
-            // Check if the input file has 1000 lines
-            if (lines.size() != 10) {
-                System.err.println("The input file does not contain exactly 1000 lines.");
+            // Check if the input file has 20 lines
+            if (lines.size() != 20) {
+                System.err.println("The input file does not contain exactly 10 lines.");
                 return;
             }
 
