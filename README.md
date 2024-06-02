@@ -1,6 +1,7 @@
 #This is a txt file splitter (Lines of txt can be divided)
 
 // feel free to modify the lenght of lines to split the input.txt file
+
 default values:
 
      file to split = input.txt
