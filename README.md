@@ -6,6 +6,8 @@
      10-20 lines = output2.txt
 
 Guide:
+
+
     1. Please, put the lines of text you want to split
     2. Save the file
     3. run the program
