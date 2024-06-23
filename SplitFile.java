@@ -19,13 +19,8 @@ public class SplitFile {
                 }
             }
 
-            // Check if the input file has 20 lines
-            if (lines.size() != 20) {
-                System.err.println("The input file does not contain exactly 10 lines.");
-                return;
-            }
-
             // Split the list of lines into two halves
+            // # example you have a 100 line in input.txt edit firsthalf to (0,50) while the secondhalf(50,100) #
             List<String> firstHalf = lines.subList(0,10);
             List<String> secondHalf = lines.subList(10, 20);
 
