@@ -7,6 +7,7 @@ default values:
      file to split = input.txt
      0-10 lines = output1.txt 
      10-20 lines = output2.txt
+     ** take note that the value of lines can be modified in the SplitFile.java **
 
 Guide:
 
